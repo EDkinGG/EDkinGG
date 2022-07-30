@@ -3,7 +3,13 @@
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
+- 🔭 I’m currently working on **Nothing**
+
 - 🌱 I’m currently learning **DS and Algorithm**
+
+- 💬 Ask me about **C, C++**
+
+- 📫 How to reach me **r23ghani@gmail.com**
 
 - ⚡ Fun fact **I am a Gamer**
 
@@ -22,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edkingg&show_icons=true&locale=en" alt="edkingg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edkingg&" alt="edkingg" /></p>
+
