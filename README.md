@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **DS and Algorithm**
+- 🌱 I’m currently learning **DS and Algorithms**
 
 - 💬 Ask me about **C, C++**
 
