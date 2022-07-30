@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Rashedul Ghani</h1>
 <h3 align="center">Programmer from Bangladesh</h3>
 
-<ing align ="center" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
+<img align ="center" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
 - 🌱 I’m currently learning **DS and Algorithm**
 
