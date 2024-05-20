@@ -3,7 +3,7 @@
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
-- 🔭 I’m currently working on **My Academic Thesis**
+- 🔭 I’m currently working on **+_+**
 
 - 🌱 I’m currently learning **DS and Algorithms**
 
