@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md. Rashedul Ghani</h1>
-<h3 align="center">Programmer from Bangladesh</h3>
+<h3 align="center">Java Backend Developer from Bangladesh</h3>
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
 - 🔭 I’m currently working on **+_+**
 
-- 🌱 I’m currently learning **DS and Algorithms**
+- 🌱 I’m currently learning **Design Pattern**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **Spring Boot, C, C++**
 
 - 📫 How to reach me **r23ghani@gmail.com**
 
