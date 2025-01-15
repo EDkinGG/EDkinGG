@@ -3,9 +3,9 @@
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
-- 🔭 I’m currently working on **+_+**
+- 🔭 I’m currently working on a Billing Project
 
-- 🌱 I’m currently learning **Design Pattern**
+- 🌱 I’m currently learning **Kafka**
 
 - 💬 Ask me about **Spring Boot, C, C++**
 
