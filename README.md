@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Reporting Project
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Kafka and Spring Batch**
 
 - 💬 Ask me about **Spring Boot, C, C++**
 
