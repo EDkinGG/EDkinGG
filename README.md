@@ -3,15 +3,13 @@
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
-- 🔭 I’m currently working on a CMS Project
+- 🔭 I’m currently working on a Card Management System (CMS) Project
 
 - 🌱 I’m currently learning **Kafka and Spring Batch**
 
 - 💬 Ask me about **Spring Boot, C, C++**
 
 - 📫 How to reach me **r23ghani@gmail.com**
-
-- ⚡ Fun fact **I am a Gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
