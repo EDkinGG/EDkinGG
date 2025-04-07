@@ -3,7 +3,7 @@
 
 <img align ="right" width="400" alt="Coding" src="https://www.dna.caltech.edu/SupplementaryMaterial/Algorithmic_SST/Artwork/nanoscale-programming-animation-Olivier-Wyart.gif">
 
-- 🔭 I’m currently working on a Reporting Project
+- 🔭 I’m currently working on a CMS Project
 
 - 🌱 I’m currently learning **Kafka and Spring Batch**
 
